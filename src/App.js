@@ -16,7 +16,7 @@ function App() {
           target='_blank'
           rel='noopener noreferrer'
         >
-          It's me , Santosh Kumar
+          It's me , Santosh Kumar, Git hub repo
         </a>
       </header>
     </div>
